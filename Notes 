@@ -1,0 +1,54 @@
+print () - for printing something 
+input () - action from the user when running the programm
+= - equal sign to assign the right and the left 
+# - comments 
++ - addition to the text for example 
+, - for multiple arguments
+sep - separator 
+end - to end a string 
+f..() - for formating things 
+strip() - remonve whitespace from string 
+.capitalize() - for capitalizing the first letter of the firrst word 
+.title() - for capotalizing the first letters of the words
+first, last = name.split (" ") - for splitting smth 
+% - take the remainder after dividing smth 
+int() - converting to a number 
+float() - numbers with decimal points 
+round() - to round numbers to the nearest digit 
+:, - to divide thouthands with ,
+def: - define integer 
+return - for returnng value 
+pow (n, 2) - n to the power of 2 
+
+#teminal 
+ls - to list my files 
+clear - to clear the terminal 
+rm - to rename my file 
+cp - to copy the file 
+mkdir folder - to create a new folder 
+mv () .. - to move folder somewhere 
+cd - change directory 
+rmdir - to delete smth 
+
+> - greater than 
+< - less than 
+>= - greater or equal than 
+<= - less or equal than 
+== - equality 
+!= - not equal to 
+
+if - question 
+elif - eliminate if if the first "if" is completed 
+else - to complede the final answer 
+or - or 
+and - and 
+bool - true or false 
+
+match: - to match statements 
+case_: + | - for using match 
+while - to loop 
+
+i = i + 1 - i += 1
+
+for - list 
+range (3) - 0,1,2
